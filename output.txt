@@ -1,0 +1,65 @@
+
+===== Student Record Management System =====
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice: 1
+Enter ID: 101
+Enter Name: priya
+Enter Marks: 90
+Student added!
+
+===== Student Record Management System =====
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice: 2
+
+--- Students List ---
+ID: 101 | Name: priya | Marks: 90
+
+===== Student Record Management System =====
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice: 2
+
+--- Students List ---
+ID: 101 | Name: priya | Marks: 90
+
+===== Student Record Management System =====
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice: 3
+Enter ID to update: 101
+Enter New Name: dharsini
+Enter New Marks: 95
+Record updated!
+
+===== Student Record Management System =====
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice: 4
+Enter ID to delete: 101
+Record deleted!
+
+===== Student Record Management System =====
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice: 5
+Exiting... Thank you!
